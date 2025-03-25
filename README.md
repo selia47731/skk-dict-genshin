@@ -13,4 +13,4 @@ Genshin Impact words dictionary for SKK (Simple Kana to Kanji conversion program
 - [ ] 書物
 
 ## ライセンス
-この辞書は、ファンメイドであり、原神公式とは一切関係ありません。加えてこの辞書は、[二次創作ガイドライン](https://www.hoyolab.com/article/1075541)の下で作成されています。
+この辞書は、ファンメイド(二次創作)であり、原神公式とは一切関係ありません。加えてこの辞書は、[二次創作ガイドライン](https://www.hoyolab.com/article/1075541)の下で作成されています。
