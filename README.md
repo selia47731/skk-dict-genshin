@@ -9,7 +9,7 @@ Genshin Impact words dictionary for SKK (Simple Kana to Kanji conversion program
 - [ ] キャラクター
     - [x] プレイアブルキャラクター(Ver5.5実装キャラクターまで収録済み)
     - [ ] NPC
-- [ ] 武器
+- [x] 武器(Ver5.5実装武器まで収録済み)
 - [ ] アイテム
 - [ ] 敵キャラクター
 - [ ] 書物
