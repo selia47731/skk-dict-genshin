@@ -7,7 +7,7 @@ Genshin Impact words dictionary for SKK (Simple Kana to Kanji conversion program
 ## 収録予定
 - [x] 地理(Ver5.5実装マップについては未収録)
 - [ ] キャラクター
-    - [ ] プレイアブルキャラクター
+    - [x] プレイアブルキャラクター(Ver5.5実装キャラクターまで収録済み)
     - [ ] NPC
 - [ ] 武器
 - [ ] アイテム
