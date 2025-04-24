@@ -5,11 +5,11 @@ Genshin Impact words dictionary for SKK (Simple Kana to Kanji conversion program
 オープンワールドRPG「原神」に登場する用語を収録した辞書です。
 
 ## 収録予定
-- [x] 地理(Ver5.5実装マップについては未収録)
+- [x] 地理`SKK-JISYO.genshin_geo`(Ver5.5実装マップについては未収録)
 - [ ] キャラクター
-    - [x] プレイアブルキャラクター(Ver5.5実装キャラクターまで収録済み)
+    - [x] プレイアブルキャラクター`SKK-JISYO.genshin_pc`(Ver5.5実装キャラクターまで収録済み)
     - [ ] NPC
-- [x] 武器(Ver5.5実装武器まで収録済み)
+- [x] 武器`SKK-JISYO.genshin_wp`(Ver5.5実装武器まで収録済み)
 - [ ] アイテム
 - [ ] 敵キャラクター
 - [ ] 書物
